@@ -15,7 +15,14 @@ button,
 input,
 select,
 textarea {
-    color: #222;
+    color: white;
+}
+
+img {
+    border:1px solid #;
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    border-radius: 20px;
 }
 
 body {
@@ -24,11 +31,11 @@ body {
     max-width: 70em;
 
     margin: 0em auto;
-    background: #EFEFEF;
+    background: black;
 }
 
 header, main  {
-  background: white;
+  background: black;
   padding: 2em;
   width: 100%;
 }
