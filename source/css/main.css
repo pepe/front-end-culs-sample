@@ -15,7 +15,7 @@ button,
 input,
 select,
 textarea {
-    color: white;
+    color: black;
 }
 
 img {
@@ -31,11 +31,11 @@ body {
     max-width: 70em;
 
     margin: 0em auto;
-    background: black;
+    background: white;
 }
 
 header, main  {
-  background: black;
+  background: white;
   padding: 2em;
   width: 100%;
 }
